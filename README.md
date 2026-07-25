@@ -523,6 +523,8 @@ API | Description | Auth | HTTPS | CORS |
 **[⬆ Back to Index](#index)**
 <br >
 <br >
+| [Domain WHOIS](https://rapidapi.com/buigialy30206/api/domain-whois-api1) | RDAP domain lookup | No | Yes | Unknown |
+| [Email Validator](https://rapidapi.com/buigialy30206/api/domain-whois-api1) | MX, DNS, disposable check | No | Yes | Unknown |
 ### Development
 API | Description | Auth | HTTPS | CORS |
 |:---|:---|:---|:---|:---|
@@ -912,6 +914,7 @@ API | Description | Auth | HTTPS | CORS |
 **[⬆ Back to Index](#index)**
 <br >
 <br >
+| [Steam Data](https://rapidapi.com/buigialy30206/api/domain-whois-api1) | Game details, players, reviews & deals | No | Yes | Unknown |
 ### Games & Comics
 API | Description | Auth | HTTPS | CORS |
 |:---|:---|:---|:---|:---|

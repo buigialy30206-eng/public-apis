@@ -662,7 +662,8 @@ API | Description | Auth | HTTPS | CORS |
 | [Webclaw](https://webclaw.io/docs/api) | Web content extraction for LLMs with scrape, crawl, search, and summarize | `apiKey` | Yes | Yes |
 | [WebScraping.AI](https://webscraping.ai/) | Web Scraping API with built-in proxies and JS rendering | `apiKey` | Yes | Yes |
 | [ZenRows](https://www.zenrows.com/) | Web Scraping API that bypasses anti-bot solutions while offering JS rendering, and rotating proxies | `apiKey` | Yes | Unknown |
-
+| [Domain WHOIS](https://rapidapi.com/buigialy30206/api/domain-whois-api1) | RDAP domain lookup | No | Yes | Unknown |
+| [Email Validator](https://rapidapi.com/buigialy30206/api/email-validator-api1) | MX, DNS, disposable check | No | Yes | Unknown |
 
 
 **[⬆ Back to Index](#index)**
@@ -1012,7 +1013,7 @@ API | Description | Auth | HTTPS | CORS |
 | [When is next MCU film](https://github.com/DiljotSG/MCU-Countdown/blob/develop/docs/API.md) | Upcoming MCU film information | No | Yes | Unknown |
 | [xkcd](https://xkcd.com/json.html) | Retrieve xkcd comics as JSON | No | Yes | No |
 | [Yu-Gi-Oh!](https://db.ygoprodeck.com/api-guide/) | Yu-Gi-Oh! TCG Information | No | Yes | Unknown |
-
+| [Steam Data API](https://rapidapi.com/buigialy30206/api/steam-data-api) | Game details, player counts, reviews & deals | No | Yes | Unknown |
 **[⬆ Back to Index](#index)**
 <br >
 <br >
